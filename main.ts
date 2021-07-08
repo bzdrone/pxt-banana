@@ -1,0 +1,1 @@
+tropic.pick(TropicalFruit.Banana);

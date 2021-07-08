@@ -1,0 +1,27 @@
+{
+    "name": "tropic",
+    "version": "1.1.0",
+    "description": "pxt extension tutorial.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "pick.md",
+        "peel.md",
+        "bananas.ts",
+        "tropic.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
