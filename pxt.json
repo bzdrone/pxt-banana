@@ -6,11 +6,12 @@
         "device": "*"
     },
     "files": [
-        "main.ts",
         "README.md",
+        "tropic.md",
         "pick.md",
         "peel.md",
-        "bananas.ts",
+        "main.ts",
+        "banana.ts",
         "tropic.ts"
     ],
     "testFiles": [
